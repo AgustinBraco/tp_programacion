@@ -3,7 +3,7 @@ Algoritmo calcular_edad
 	Definir actual, nacimiento, edad Como Entero
 	actual <- 2024
 
-	Escribir 'Ingrese el a�o de su nacimiento (AAAA): '
+	Escribir 'Ingrese el año de su nacimiento (AAAA): '
 	Leer nacimiento
 
 	edad <- actual - nacimiento
