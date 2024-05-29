@@ -8,5 +8,5 @@ Algoritmo calcular_edad
 
 	edad <- actual - nacimiento
 	Escribir 'Su edad es: ' edad
-	
+
 FinAlgoritmo
