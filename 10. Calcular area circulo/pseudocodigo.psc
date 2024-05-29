@@ -2,10 +2,10 @@ Algoritmo calcular_area_circulo
 	
 	Definir radio, area Como Real
 	
-	Escribir 'Ingrese el radio de un círculo: '
+	Escribir 'Ingrese el radio de un cï¿½rculo: '
 	Leer radio
 	
 	area <- PI * radio ^ 2
-	Escribir 'El área del circulo es: ' area
-	
+	Escribir 'El ï¿½rea del circulo es: ' area
+
 FinAlgoritmo
