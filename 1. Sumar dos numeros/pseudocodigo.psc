@@ -10,5 +10,5 @@ Algoritmo sumar_dos_numeros
 	
 	resultado <- num1 + num2
 	Escribir 'El resultado es ' resultado
-	
+
 FinAlgoritmo
