@@ -7,6 +7,6 @@ Algoritmo convertir_tiempo
 	
 	horas <- TRUNC(mins / 60)
   minutos <- mins MOD 60
-	Escribir 'La conversi�n es: ' horas ' horas y ' minutos ' minutos'
+	Escribir 'La conversión es: ' horas ' horas y ' minutos ' minutos'
 
 FinAlgoritmo
